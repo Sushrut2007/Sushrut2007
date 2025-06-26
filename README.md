@@ -49,11 +49,4 @@
 
 ---
 
-### 🌐 Connect With Me
-
-- 💼 [LinkedIn](www.linkedin.com/in/sushrut-deshmukh-7266622b6)
-- 📫 Email: sushrutdeshmukh4@gmail.com
-
----
-
 > “Look up at the stars and not down at your feet.” – Stephen Hawking
