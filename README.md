@@ -1,14 +1,14 @@
 # Hi, I'm Sushrut 👋
 
-🚀 Aspiring Astrophysicist • 💻 Python Enthusiast • 🧠 AI Explorer
+🚀 Aspiring Astrophysicist • 💻 Python Enthusiast • 🧠 ML Explorer
 
 ---
 
 ### 🔭 About Me
 
 - 🧠 Passionate about Astronomy, Astrophysics, and Machine Learning
-- 🛠 Currently learning: Python, Git, and AI tools
-- 🚗 Also a big fan of cars and space engineering
+- 🛠 Currently learning: Python, Physics, and ML tools
+- 🚗 Also a big fan of cars
 - 🌌 My dream is to study the universe with data-driven science
 
 ---
