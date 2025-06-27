@@ -1,5 +1,3 @@
-# Hi, I'm Sushrut 👋
-
 ## 🚀 Aspiring Astrophysicist • 💻 Python Enthusiast • 🧠 ML Explorer
 
 ---
