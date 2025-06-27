@@ -1,6 +1,6 @@
 # Hi, I'm Sushrut 👋
 
-🚀 Aspiring Astrophysicist • 💻 Python Enthusiast • 🧠 ML Explorer
+## 🚀 Aspiring Astrophysicist • 💻 Python Enthusiast • 🧠 ML Explorer
 
 ---
 
